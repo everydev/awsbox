@@ -1,4 +1,11 @@
-[![Build Status](https://travis-ci.org/mozilla/awsbox.png?branch=master)](https://travis-ci.org/mozilla/awsbox)
+# A Cloudops fork of Awsbox
+
+Key differences: 
+
+* matches closer with what cloudops uses to deploy to production
+* uses our custom EC2 AMI and node.js deployment procedures
+* works as close as possible to [mozilla/awsbox](https://github.com/mozilla/awsbox)
+* etc. etc..
 
 ## A Lightweight DIY PaaS for Amazon Web Services
 
